@@ -1,0 +1,2 @@
+# vendas-planilha
+SITE DE VENDA DE PLANILHAS - GOOGLESHEETS
